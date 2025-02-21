@@ -1,6 +1,6 @@
 # A02 | Definitions
 
-Branch 
+<strong> Branch </strong>
 
 Clone 
 
