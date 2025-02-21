@@ -1,26 +1,26 @@
 # A02 | Definitions
 
-<strong> Branch </strong>
+<strong>Branch</strong>
 
-Clone 
+<strong>Clone</strong>
 
-Commit 
+<strong>Commit</strong>
 
-Fetch
+<strong>Fetch</strong>
 
-GIT
+<strong>GIT</strong>
 
-Github
+<strong>Github</strong>
 
-Merge
+<strong>Merge</strong>
 
-Merge Conflict
+<strong>Merge Conflict</strong>
 
-Push
+<strong>Push</strong>
 
-Pull
+<strong>Pull</strong>
 
-Remote
+<strong>Remote</strong>
 
-Repository
+<strong>Repository</strong>
 
